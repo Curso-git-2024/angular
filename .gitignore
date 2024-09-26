@@ -1,3 +1,6 @@
+
+*.tonteria
+
 .DS_STORE
 
 /dist/
